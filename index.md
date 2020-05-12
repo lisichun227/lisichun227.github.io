@@ -5,7 +5,11 @@
 ### Data Analytics
 
 [Greek Yogurt New Flavor Recommendation](/Greek Yogurt)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Problem:** found out the optimal set of the next flavors to launch
+**Approach:** wrote SQL queries to extract, merge sales data and analyze market share of existing flavors; performed preference analysis using survey data; performed TURF analysis to estimate increased customer reach; integrated analysis results to drive decisions; used Tableau for visualization
+**Outcome:** identified the next flavors to launch; increased customer base by 2%
+**Tool:** SQL, Tableau
+<img src="images/greek yogurt.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
