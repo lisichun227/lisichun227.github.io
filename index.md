@@ -6,10 +6,10 @@
 
 ### Greek Yogurt New Flavor Recommendation　　<br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
-**#### Problem:** found out the optimal set of the next flavors to launch  <br> 
-**#### Approach:** wrote SQL queries to extract, merge sales data and analyze market share of existing flavors; performed preference analysis using survey data; performed TURF analysis to estimate increased customer reach; integrated analysis results to drive decisions; used Tableau for visualization  <br>
-**#### Outcome:** identified the next flavors to launch; increased customer base by 2%  <br>
-**#### Tool:** SQL, R, Tableau  <br>
+**Problem:** found out the optimal set of the next flavors to launch  <br> 
+**Approach:** wrote SQL queries to extract, merge sales data and analyze market share of existing flavors; performed preference analysis using survey data; performed TURF analysis to estimate increased customer reach; integrated analysis results to drive decisions; used Tableau for visualization  <br>
+**Outcome:** identified the next flavors to launch; increased customer base by 2%  <br>
+**Tool:** SQL, R, Tableau  <br>
 <img src="images/greek yogurt.jpeg?raw=true"/>
 
 ---
