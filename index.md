@@ -21,17 +21,17 @@
 > **Outcome:** optimal short-term and long-term product lines; increased profit per year by 91% on average  <br>
 > **Tool:** R  <br>
 
-<img src="images/toy horse1.jpeg?raw=true"/>
+<img src="images/toy horse1.jpeg" width="100%" height="275">
 
 ---
-### [Toy Horse Product Line Design](/index.md)　　<br>
+### [A/B Testing - Email Campaign Optimization](/index.md)　　<br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 > **Problem:**  evaluated the effectiveness of the promotion and who to target with the email campaign  <br> 
 > **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation <br>
-> **Outcome:** confirmed promotion was effective; identified the characteristics of the targeted group for broader campaigns reference  <br>
+> **Outcome:** confirmed promotion was effective; identified the characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
 
-<img src="images/toy horse1.jpeg?raw=true"/>
+<img src="images/toy horse1.jpeg" width="100%" height="275">
 ---
 
 ### Category Name 2
