@@ -21,7 +21,7 @@
 >*Outcome:* optimal short-term and long-term product lines; increased profit per year by 91% on average  <br>
 >*Tool:* R  <br>
 
-<img src="images/toy horse.jpg?raw=true"/>
+<img src="images/toy horse1.jpeg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
