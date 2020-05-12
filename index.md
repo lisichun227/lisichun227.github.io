@@ -20,7 +20,8 @@
 >*Approach:* conjoint analysis using regression models; cluster analysis based on conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
 >*Outcome:* optimal short-term and long-term product lines; increased profit per year by 91% on average  <br>
 >*Tool:* R  <br>
-<img src="images/toy horse.jpeg?raw=true"/>
+
+<img src="images/toy horse.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
