@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics
 
-[Project 1 Title](/sample_page)
+[Greek Yogurt New Flavor Recommendation](/Greek Yogurt)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
