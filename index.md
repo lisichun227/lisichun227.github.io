@@ -24,7 +24,7 @@
 <img src="images/toy horse1.jpeg" width="100%" height="275">
 
 ---
-### [A/B Testing - Email Campaign Optimization](/index.md)　　<br>
+### [A/B Testing - Email Campaign Optimization for Wine Retailer](/index.md)　　<br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 > **Problem:**  evaluated the effectiveness of the promotion and who to target with the email campaign  <br> 
 > **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis; individual-level conditional casual effect estimate using casual forest model  <br>
