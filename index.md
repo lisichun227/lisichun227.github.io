@@ -31,7 +31,7 @@
 > **Outcome:** confirmed promotion was effective; identified the characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
 
-<img src="images/wine.jpeg" width="100%" height="275">
+<img src="images/wine.jpg" width="100%" height="275">
 ---
 
 ### Category Name 2
