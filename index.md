@@ -16,10 +16,10 @@
 ---
 ### [Toy Horse Product Line Design](/index.md)　　<br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
->*Problem:* Designed the most profitable product line  <br> 
->*Approach:* conjoint analysis using regression models; cluster analysis based on conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
->*Outcome:* optimal short-term and long-term product lines; increased profit per year by 91% on average  <br>
->*Tool:* R  <br>
+> **Problem:** Designed the most profitable product line  <br> 
+> **Approach:** conjoint analysis using regression models; cluster analysis based on conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
+> **Outcome:** optimal short-term and long-term product lines; increased profit per year by 91% on average  <br>
+> **Tool:** R  <br>
 
 <img src="images/toy horse1.jpeg?raw=true"/>
 
