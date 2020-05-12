@@ -10,7 +10,7 @@
 *Approach:* wrote SQL queries to extract, merge sales data and analyze market share of existing flavors; performed preference analysis using survey data; performed TURF analysis to estimate increased customer reach; integrated analysis results to drive decisions; used Tableau for visualization  <br>
 *Outcome:* identified the next flavors to launch; increased customer base by 2%  <br>
 *Tool:* SQL, R, Tableau  <br>
-<img src="images/greek yogurt.jpeg?raw=true"/height="250">
+<img src="images/greek yogurt.jpeg?raw=true" height="250">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
