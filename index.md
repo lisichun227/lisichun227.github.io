@@ -16,7 +16,7 @@
 ---
 ### [Toy Horse Product Line Design](/index.md)　　<br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
-> **Problem:** Designed the most profitable product line  <br> 
+> **Problem:** designed the most profitable product line  <br> 
 > **Approach:** conjoint analysis using regression models; cluster analysis based on conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
 > **Outcome:** optimal short-term and long-term product lines; increased profit per year by 91% on average  <br>
 > **Tool:** R  <br>
@@ -24,9 +24,14 @@
 <img src="images/toy horse1.jpeg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Toy Horse Product Line Design](/index.md)　　<br>
+[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+> **Problem:**  evaluated the effectiveness of the promotion and who to target with the email campaign  <br> 
+> **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation <br>
+> **Outcome:** confirmed promotion was effective; identified the characteristics of the targeted group for broader campaigns reference  <br>
+> **Tool:** R  <br>
 
+<img src="images/toy horse1.jpeg?raw=true"/>
 ---
 
 ### Category Name 2
