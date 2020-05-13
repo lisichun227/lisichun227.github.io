@@ -31,7 +31,7 @@
 > **Outcome:** confirmed promotion was effective; identified the characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
 
-<img src="images/wine1.jpg" width="100%" height="300" >
+<img src="images/wine1.jpg" width="100%" height="285" >
 ---
 
 ### Machine learning/Statistical Modeling
