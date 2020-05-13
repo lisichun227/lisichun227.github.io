@@ -53,7 +53,7 @@
 >**Outcome:** predicted weekly sales was 55,610(units). <br>
 >**Tool:** Python  <br>
 
-<img src="images/nintendo switch1.jpeg" width="100%" height="275">
+<img src="images/nintendo switch1.jpg" width="100%" height="275">
 
 
 
