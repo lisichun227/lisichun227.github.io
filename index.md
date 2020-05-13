@@ -4,10 +4,8 @@
 
 ### Data Analytics  
 
-
-
-#### Greek Yogurt New Flavor Recommendation  <br>
-[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+### [Greek Yogurt New Flavor Recommendation](/index.md)  <br>
+[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　
 >**Problem:** found out the optimal set of the next flavors to launch  <br>
 >**Approach:** wrote SQL queries to extract, merge sales data and analyze market share of existing flavors; performed preference analysis using survey data; performed TURF analysis to estimate increased customer reach; integrated analysis results to drive decisions; used Tableau for visualization  <br>
 >**Outcome:** identified the next flavors to launch; increased customer base by 2%  <br>
@@ -16,7 +14,7 @@
 <img src="images/greek yogurt.jpeg" width="100%" height="275">
 
 ---
-#### Toy Horse Product Line Design  <br>　　
+#### [Toy Horse Product Line Design](/index.md)  <br>　　
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 > **Problem:** designed the most profitable product line  <br> 
 > **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
@@ -39,7 +37,7 @@
 
 ### Machine learning/Statistical Modeling
 
-#### [Credit Risk Prediction](/index.md)　　<br>
+#### [Credit Risk Prediction](/index.md)  <br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 >**Problem:** evaluated the risk of Home Equity Line of Credit (HELOC) applications  <br>
 >**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
