@@ -74,7 +74,7 @@
 ### Pricing Analysis
 
 ### [Soft Drink Pricing Analysis](/index.md)　　<br>
-[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 >**Problem:**  set the price for a new product “Kiwi Bubbles”  <br>
 >**Approach:** cluster modeling based on customer demographics; multinomial logit modeling for each segment and own- and cross-price elasticities calculation to explore customer preference and any substitution pattern; dynamic and competitive pricing analysis under “pricing war” considering cannibalization  <br>
 >**Outcome:** the optimal price at equilibrium point  <br>
