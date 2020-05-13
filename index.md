@@ -47,7 +47,7 @@
 <img src="images/HELOC.jpg" width="100%" height="275">
 
 ---
-### [Nintendo Switch weekly sales Forecasting](/index.md)　　<br>
+### [Nintendo Switch Weekly Sales Time Series Forecasting](/index.md)　　<br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 >**Problem:** predicted the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
 >**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling output based on MAE metric and final weighted result computing  <br>
