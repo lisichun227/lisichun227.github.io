@@ -16,7 +16,7 @@
 <img src="images/greek yogurt.jpeg" width="100%" height="275">
 
 ---
-#### [Toy Horse Product Line Design](/index.md)　　<br>
+#### Toy Horse Product Line Design　　
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 > **Problem:** designed the most profitable product line  <br> 
 > **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
