@@ -61,13 +61,19 @@
 ### Data Visulization
 
 ### [Google Play Store Apps Rating Analysis](/index.md)　　<br>
-[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 >**Problem:** explored how app attributes impacted their ratings  <br>
->**Approach:** derived key insights through data visualization in Tableau and told the story  <br>
+>**Approach:** removed outliers and transform data in SQL; derived key insights through data visualization in Tableau and told the story  <br>
 >**Outcome:** some insights about features for popular apps  <br>
->**Tool:** Tableau  <br>
+>**Tool:** SQL,Tableau  <br>
 
 <img src="images/google play store app.png" width="100%" height="275">
+
+---
+
+### Pricing Analysis
+
+
 
 ---
 
