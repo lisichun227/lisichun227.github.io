@@ -43,7 +43,7 @@
 >**Outcome:** random forest performed best, achieving accuracy of 72.1%  <br>
 >**Tool:** Python  <br>
 
-<img src="images/HELOC.jpeg" width="100%" height="275">
+<img src="images/HELOC.jpg" width="100%" height="275">
 
 ---
 ### [Nintendo Switch weekly sales Forecasting](/index.md)　　<br>
@@ -53,7 +53,7 @@
 >**Outcome:** predicted weekly sales was 55,610(units). <br>
 >**Tool:** Python  <br>
 
-<img src="images/greek yogurt.jpeg" width="100%" height="275">
+<img src="images/nintendo switch.jpg" width="100%" height="275">
 
 
 
