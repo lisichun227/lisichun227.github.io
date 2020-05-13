@@ -32,6 +32,7 @@
 > **Tool:** R  <br>
 
 <img src="images/wine1.jpg" width="100%" height="285" >
+
 ---
 
 ### Machine learning/Statistical Modeling
