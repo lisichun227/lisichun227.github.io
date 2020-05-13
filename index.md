@@ -17,8 +17,8 @@
 ### [Toy Horse Product Line Design](/index.md)　　<br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 > **Problem:** designed the most profitable product line  <br> 
-> **Approach:** conjoint analysis using regression models; cluster analysis based on conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
-> **Outcome:** optimal short-term and long-term product lines; increased profit per year by 91% on average  <br>
+> **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
+> **Outcome:** optimal short-term and long-term product lines; potential profit uplift amounting to $86,832.92 per year.  <br>
 > **Tool:** R  <br>
 
 <img src="images/toy horse1.jpeg" width="100%" height="275">
@@ -27,23 +27,33 @@
 ### [A/B Testing - Email Campaign Optimization for Wine Retailer](/index.md)　　<br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 > **Problem:**  evaluated the effectiveness of the promotion and who to target with the email campaign  <br> 
-> **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis; individual-level conditional casual effect estimate using casual forest model  <br>
+> **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis to explore differences in the potential response for the promotion email ; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation <br>
 > **Outcome:** confirmed promotion was effective; identified the characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
 
 <img src="images/wine1.jpg" width="100%" height="300" >
 ---
 
-### Category Name 2
+### Machine learning/Statistical Modeling
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### [Credit Risk Prediction](/index.md)　　<br>
+[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+>**Problem:** evaluated the risk of Home Equity Line of Credit (HELOC) applications  <br>
+>**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
+>**Outcome:** random forest performed best, achieving accuracy of 72.1%  <br>
+>**Tool:** Python  <br>
+
+<img src="images/HELOC.jpeg" width="100%" height="275">
 
 ---
+### [Nintendo Switch weekly sales Forecasting](/index.md)　　<br>
+[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+>**Problem:** predicted the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
+>**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling output based on MAE metric and final weighted result computing  <br>
+>**Outcome:** predicted weekly sales was 55,610(units). <br>
+>**Tool:** Python  <br>
 
+<img src="images/greek yogurt.jpeg" width="100%" height="275">
 
 
 
