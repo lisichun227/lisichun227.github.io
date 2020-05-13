@@ -1,5 +1,5 @@
-## Portfolio  <br>
-[data analytics](/index.md/"Data Analytics")
+## Portfolio  
+
 ---
 
 ### Data Analytics  
