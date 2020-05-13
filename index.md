@@ -31,7 +31,7 @@
 > **Outcome:** confirmed promotion was effective; identified the characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
 
-<img src="images/wine1.jpg" width="100%" height="285" >
+<img src="images/wine2.jpg" width="100%" height="285" >
 
 ---
 
@@ -67,7 +67,7 @@
 >**Outcome:** some insights about features for popular apps  <br>
 >**Tool:** SQL,Tableau  <br>
 
-<img src="images/google play store apps.jpg" width="100%" height="275">
+<img src="images/google play store app.jpg" width="100%" height="275">
 
 ---
 
@@ -80,7 +80,7 @@
 >**Outcome:** the optimal price at equilibrium point  <br>
 >**Tool:** R <br>
 
-<img src="images/drink.jpg" width="100%" height="275">
+<img src="images/drink1.jpg" width="100%" height="275">
 
 
 ---
