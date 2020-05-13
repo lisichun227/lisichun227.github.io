@@ -4,7 +4,7 @@
 
 ### Data Analytics
 
----
+
 
 ### Greek Yogurt New Flavor Recommendation  <br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
