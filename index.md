@@ -16,7 +16,7 @@
 <img src="images/greek yogurt.jpeg" width="100%" height="275">
 
 ---
-#### Toy Horse Product Line Design　　
+#### Toy Horse Product Line Design  <br>　　
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 > **Problem:** designed the most profitable product line  <br> 
 > **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
@@ -26,7 +26,7 @@
 <img src="images/toy horse1.jpeg" width="100%" height="275">
 
 ---
-#### [A/B Testing - Email Campaign Optimization for Wine Retailer](/index.md)　　<br>
+#### A/B Testing - Email Campaign Optimization for Wine Retailer  <br>
 [view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
 > **Problem:**  evaluated the effectiveness of the promotion and who to target with the email campaign  <br> 
 > **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis to explore differences in the potential response for the promotion email ; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation <br>
