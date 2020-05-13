@@ -67,7 +67,7 @@
 >**Outcome:** some insights about features for popular apps  <br>
 >**Tool:** Tableau  <br>
 
-<img src="images/HELOC.jpg" width="100%" height="275">
+<img src="images/google play store app.png" width="100%" height="275">
 
 ---
 
