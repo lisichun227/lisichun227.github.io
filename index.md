@@ -4,8 +4,8 @@
 
 ### Data Analytics  
 
-#### [Greek Yogurt New Flavor Recommendation](/index.md)  <br>
-[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　
+#### [Greek Yogurt New Flavor Recommendation](files/Greek Yogurt report.pdf)  <br>
+[view the code](files/Greek Yogurt code.html)　　
 >**Problem:** found out the optimal set of the next flavors to launch  <br>
 >**Approach:** wrote SQL queries to extract, merge sales data and analyze market share of existing flavors; performed preference analysis using survey data; performed TURF analysis to estimate increased customer reach; integrated analysis results to drive decisions; used Tableau for visualization  <br>
 >**Outcome:** identified the next flavors to launch; increased customer base by 2%  <br>
@@ -14,8 +14,8 @@
 <img src="images/greek yogurt.jpeg" width="100%" height="275">
 
 ---
-#### [Toy Horse Product Line Design](/index.md)  <br>　　
-[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+#### [Toy Horse Product Line Design](files/toy horse report.pdf)  <br>　　
+[view the code](files/toy horse code.html)　
 > **Problem:** designed the most profitable product line  <br> 
 > **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
 > **Outcome:** optimal short-term and long-term product lines; potential profit uplift amounting to $86,832.92 per year.  <br>
@@ -24,8 +24,8 @@
 <img src="images/toy horse1.jpeg" width="100%" height="275">
 
 ---
-#### A/B Testing - Email Campaign Optimization for Wine Retailer  <br>
-[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+#### [A/B Testing - Email Campaign Optimization for Wine Retailer](files/wine retailer report.pdf)  <br>
+[view the code](files/wine retailer code.html)　　
 > **Problem:**  evaluated the effectiveness of the promotion and who to target with the email campaign  <br> 
 > **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis to explore differences in the potential response for the promotion email ; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation <br>
 > **Outcome:** confirmed promotion was effective; identified the characteristics of the targeted group to optimize broader campaigns  <br>
@@ -37,8 +37,8 @@
 
 ### Machine learning/Statistical Modeling
 
-#### [Credit Risk Prediction](/index.md)  <br>
-[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+#### [Credit Risk Prediction](files/wine retailer report.pdf)  <br>
+[view the code](/index.md)　　
 >**Problem:** evaluated the risk of Home Equity Line of Credit (HELOC) applications  <br>
 >**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
 >**Outcome:** random forest performed best, achieving accuracy of 72.1%  <br>
@@ -47,8 +47,8 @@
 <img src="images/HELOC.jpg" width="100%" height="275">
 
 ---
-#### [Nintendo Switch Weekly Sales Time Series Forecasting](/index.md)　　<br>
-[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+#### [Nintendo Switch Weekly Sales Time Series Forecasting](files/Nintendo Switch Weekly Sales Forecasting.pdf)　　<br>
+[view the code](files/Nintendo Switch Weekly Sales Forecasting.ipynb)　　
 >**Problem:** predicted the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
 >**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling output based on MAE metric and final weighted result computing  <br>
 >**Outcome:** predicted weekly sales was 55,610(units). <br>
@@ -60,8 +60,8 @@
 
 ### Data Visulization
 
-#### [Google Play Store Apps Rating Analysis](/index.md)　　<br>
-[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+#### [Google Play Store Apps Rating Analysis](files/google play store apps rating analysis.pdf)　　<br>
+
 >**Problem:** explored how app attributes impacted their ratings  <br>
 >**Approach:** removed outliers and transform data in SQL; derived key insights through data visualization in Tableau and told the story  <br>
 >**Outcome:** some insights about features for popular apps  <br>
@@ -73,8 +73,8 @@
 
 ### Pricing Analysis
 
-#### [Soft Drink Pricing Analysis](/index.md)　　<br>
-[view the code](/files/Greek Yogurt New Flavors Recommendation.html)　　[view the report](/files/Soft Drink Pricing Analysis Report.pdf)  <br>
+#### [Soft Drink Pricing Analysis](files/soft drink pricing analysis report.pdf)　　<br>
+[view the code](files/soft drink pricing analysis code.html)　　
 >**Problem:**  set the price for a new product “Kiwi Bubbles”  <br>
 >**Approach:** cluster modeling based on customer demographics; multinomial logit modeling for each segment and own- and cross-price elasticities calculation to explore customer preference and any substitution pattern; dynamic and competitive pricing analysis under “pricing war” considering cannibalization  <br>
 >**Outcome:** the optimal price at equilibrium point  <br>
