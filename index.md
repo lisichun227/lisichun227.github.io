@@ -37,8 +37,8 @@
 
 ### Machine learning/Statistical Modeling
 
-#### [Credit Risk Prediction](files/wine retailer report.pdf)  <br>
-[view the code](/index.md)　　
+#### [Credit Risk Prediction](files/HELOC Predictive Modeling Report.pdf)  <br>
+[view the code](files/HELOC code.ipynb)　　
 >**Problem:** evaluated the risk of Home Equity Line of Credit (HELOC) applications  <br>
 >**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
 >**Outcome:** random forest performed best, achieving accuracy of 72.1%  <br>
