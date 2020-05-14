@@ -14,8 +14,8 @@
 <img src="images/greek yogurt.jpeg" width="100%" height="275">
 
 ---
-#### [Toy Horse Product Line Design](files/toy horse report.pdf)  <br>　　
-[view the code](files/toy horse code.html)　
+#### [Toy Horse Product Line Design](files/toy horse report.pdf)  <br>
+[view the code](files/toy horse code.html)　　
 > **Problem:** designed the most profitable product line  <br> 
 > **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
 > **Outcome:** optimal short-term and long-term product lines; potential profit uplift amounting to $86,832.92 per year.  <br>
