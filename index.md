@@ -80,7 +80,7 @@
 >**Outcome:** the optimal price at equilibrium point  <br>
 >**Tool:** R <br>
 
-<img src="images/drink 1.jpeg" width="100%" height="295">
+<img src="images/drink 2.jpeg" width="100%" height="295">
 
 
 ---
