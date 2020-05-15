@@ -51,7 +51,7 @@
 [view the code](files/Nintendo Switch Weekly Sales Forecasting.ipynb)　　
 >**Problem:** predicted the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
 >**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling outputs based on MAE metric and final weighted result computing  <br>
->**Outcome:** Weekly sales was predicted to be 55,610(units). <br>
+>**Outcome:** predicted weekly sales was 55,610(units). <br>
 >**Tool:** Python  <br>
 
 <img src="images/nintendo switch2.jpg" width="100%" height="275">
