@@ -28,7 +28,7 @@
 [view the code](files/wine retailer code.html)　　
 > **Problem:**  evaluated the effectiveness of the promotion and who to target with the email campaign  <br> 
 > **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis to explore differences in the potential response for the promotion email ; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation <br>
-> **Outcome:** confirmed promotion was effective; identified the characteristics of the targeted group to optimize broader campaigns  <br>
+> **Outcome:** confirmed promotion was effective; identified characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
 
 <img src="images/wine2.jpg" width="100%" height="295" >
@@ -50,8 +50,8 @@
 #### [Nintendo Switch Weekly Sales Time Series Forecasting](files/Nintendo Switch Weekly Sales Forecasting.pdf)　　<br>
 [view the code](files/Nintendo Switch Weekly Sales Forecasting.ipynb)　　
 >**Problem:** predicted the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
->**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling output based on MAE metric and final weighted result computing  <br>
->**Outcome:** predicted weekly sales was 55,610(units). <br>
+>**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling outputs based on MAE metric and final weighted result computing  <br>
+>**Outcome:** Weekly sales was predicted to be 55,610(units). <br>
 >**Tool:** Python  <br>
 
 <img src="images/nintendo switch2.jpg" width="100%" height="275">
@@ -63,7 +63,7 @@
 #### [Google Play Store Apps Rating Analysis](files/google play store apps rating analysis.pdf)　　<br>
 
 >**Problem:** explored how app attributes impacted their ratings  <br>
->**Approach:** removed outliers and transform data in SQL; derived key insights through data visualization in Tableau and told the story  <br>
+>**Approach:** removed outliers and transformed data in SQL; derived key insights through data visualization in Tableau and told the story  <br>
 >**Outcome:** some insights about features for popular apps  <br>
 >**Tool:** SQL,Tableau  <br>
 
@@ -75,7 +75,7 @@
 
 #### [Soft Drink Pricing Analysis](files/soft drink pricing analysis report.pdf)　　<br>
 [view the code](files/soft drink pricing analysis code.html)　　
->**Problem:**  set the price for a new product “Kiwi Bubbles”  <br>
+>**Problem:**  set the price for a new product, “Kiwi Bubbles”  <br>
 >**Approach:** cluster modeling based on customer demographics; multinomial logit modeling for each segment and own- and cross-price elasticities calculation to explore customer preference and any substitution pattern; dynamic and competitive pricing analysis under “pricing war” considering cannibalization  <br>
 >**Outcome:** the optimal price at equilibrium point  <br>
 >**Tool:** R <br>
