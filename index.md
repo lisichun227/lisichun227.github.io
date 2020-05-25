@@ -34,7 +34,7 @@
 <img src="images/wine2.jpg" width="100%" height="295" >
 
 ---
-#### [911 Calls Data Analytics](https://www.kaggle.com/mchirico/montcoalert)(* data source:Kaggle)  <br> 
+#### [911 Calls Data Analytics](https://www.kaggle.com/mchirico/montcoalert)(data source:Kaggle)  <br> 
 [view the code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/911%20Calls%20Data%20Analytics%20Project.ipynb)　　
 > **Problem:**  detected what factors are likely to trigger more 911 calls  <br> 
 > **Approach:** data manipulation, derivable variables creation and data analysis to identify causes and time patterns of 911 calls(Numpy and Pandas); data visualization(Matplotlib, Seaborn)  <br>
