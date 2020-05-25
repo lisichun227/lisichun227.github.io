@@ -27,9 +27,19 @@
 #### [A/B Testing - Email Campaign Optimization for Wine Retailer](files/wine retailer report.pdf)  <br>
 [view the code](files/wine retailer code.html)　　
 > **Problem:**  evaluated the effectiveness of the promotion and who to target with the email campaign  <br> 
-> **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis to explore differences in the potential response for the promotion email ; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation <br>
+> **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis to explore differences in the potential response for the promotion email ; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation  <br>
 > **Outcome:** confirmed promotion was effective; identified characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
+
+<img src="images/wine2.jpg" width="100%" height="295" >
+
+---
+#### [911 Calls Data Analytics]  <br>
+[view the code](files/wine retailer code.html)　　
+> **Problem:**  detected what factors are likely to trigger more 911 calls  <br> 
+> **Approach:** data manipulation, derivable variables creation and data analysis to identify causes and time patterns of 911 calls(Numpy and Pandas); data visualization(Matplotlib, Seaborn)  <br>
+> **Outcome:** insights about common resons for 911 calls and their time distribution  <br>
+> **Tool:** Python  <br>
 
 <img src="images/wine2.jpg" width="100%" height="295" >
 
@@ -51,10 +61,23 @@
 [view the code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Nintendo%20Switch%20Weekly%20Sales%20Forecasting.ipynb)　　
 >**Problem:** predicted the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
 >**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling outputs based on MAE metric and final weighted result computing  <br>
->**Outcome:** predicted weekly sales was 55,610(units). <br>
+>**Outcome:** predicted weekly sales was 55,610(units) <br>
 >**Tool:** Python  <br>
 
 <img src="images/nintendo switch2.jpg" width="100%" height="275">
+
+---
+
+### Data Warehouse Design
+
+#### [Blue Hill Country Club Data Warehouse Design](files/HELOC Predictive Modeling Report.pdf)  <br>
+[view the code](https://github.cosichun227/lisichun227.github.io/blob/master/files/machine%20learning-HELOC%20code%20.ipynb)　　
+>**Problem:** designed a efficient and easy to use data warehouse for the Blue Hill Country Club and gained insights about service purchase patterns  <br>
+>**Approach:** EER diagram and relational schema design to organize 50,000+ transaction data from ten tables; dates and names transformation and standardization; ETL process using SQL queries to generate a data warehouse; data extraction and analysis using SQL queries; data visualization in Tableau  <br>
+>**Outcome:** insights about the sales performance of categories, the consumption preference of different types of customers as well as promotion effectiveness etc  <br>
+>**Tool:** SQL Tableau  <br>
+
+<img src="images/HELOC.jpg" width="100%" height="275">
 
 ---
 
@@ -64,7 +87,7 @@
 
 >**Problem:** explored how app attributes impacted their ratings  <br>
 >**Approach:** removed outliers and transformed data in SQL; derived key insights through data visualization in Tableau and told the story  <br>
->**Outcome:** some insights about features for popular apps  <br>
+>**Outcome:** insights about features for popular apps  <br>
 >**Tool:** SQL,Tableau  <br>
 
 <img src="images/google play store app.png" width="100%" height="275">
