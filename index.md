@@ -34,8 +34,8 @@
 <img src="images/wine2.jpg" width="100%" height="295" >
 
 ---
-#### [911 Calls Data Analytics]  <br>
-[view the code](files/wine retailer code.html)　　
+#### [911 Calls Data Analytics](https://www.kaggle.com/mchirico/montcoalert)(* data source:Kaggle)  <br> 
+[view the code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/911%20Calls%20Data%20Analytics%20Project.ipynb)　　
 > **Problem:**  detected what factors are likely to trigger more 911 calls  <br> 
 > **Approach:** data manipulation, derivable variables creation and data analysis to identify causes and time patterns of 911 calls(Numpy and Pandas); data visualization(Matplotlib, Seaborn)  <br>
 > **Outcome:** insights about common resons for 911 calls and their time distribution  <br>
@@ -70,7 +70,7 @@
 
 ### Data Warehouse Design
 
-#### [Blue Hill Country Club Data Warehouse Design](files/HELOC Predictive Modeling Report.pdf)  <br>
+#### [Blue Hill Country Club Data Warehouse Design](files/Data Warehouse Design Report.pdf)  <br>
 [view the code](https://github.cosichun227/lisichun227.github.io/blob/master/files/machine%20learning-HELOC%20code%20.ipynb)　　
 >**Problem:** designed a efficient and easy to use data warehouse for the Blue Hill Country Club and gained insights about service purchase patterns  <br>
 >**Approach:** EER diagram and relational schema design to organize 50,000+ transaction data from ten tables; dates and names transformation and standardization; ETL process using SQL queries to generate a data warehouse; data extraction and analysis using SQL queries; data visualization in Tableau  <br>
