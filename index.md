@@ -41,7 +41,7 @@
 > **Outcome:** insights about common resons for 911 calls and their time distribution  <br>
 > **Tool:** Python  <br>
 
-<img src="images/wine2.jpg" width="100%" height="295" >
+<img src="images/911 calls.png" width="100%" height="275" >
 
 ---
 
@@ -77,7 +77,7 @@
 >**Outcome:** insights about the sales performance of categories, the consumption preference of different types of customers as well as promotion effectiveness etc  <br>
 >**Tool:** SQL Tableau  <br>
 
-<img src="images/HELOC.jpg" width="100%" height="275">
+<img src="images/blue hill data warehouse design.png" width="100%" height="275">
 
 ---
 
