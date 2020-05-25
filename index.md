@@ -71,7 +71,7 @@
 ### Data Warehouse Design
 
 #### [Blue Hill Country Club Data Warehouse Design](files/Data Warehouse Design Report.pdf)  <br>
-[view the code](https://github.cosichun227/lisichun227.github.io/blob/master/files/machine%20learning-HELOC%20code%20.ipynb)　　
+[view the code](files/Data Warehouse Design SQL code.pdf)　　
 >**Problem:** designed a efficient and easy to use data warehouse for the Blue Hill Country Club and gained insights about service purchase patterns  <br>
 >**Approach:** EER diagram and relational schema design to organize 50,000+ transaction data from ten tables; dates and names transformation and standardization; ETL process using SQL queries; data analysis using SQL queries; data visualization in Tableau  <br>
 >**Outcome:** insights about the sales performance of categories, the consumption preference of different types of customers as well as promotion effectiveness etc  <br>
