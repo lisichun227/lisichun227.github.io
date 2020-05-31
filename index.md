@@ -12,12 +12,12 @@
 >**Outcome:** identified the next flavors to launch; enlarged customer base by 2%  <br>
 >**Tool:** SQL, R, Tableau  <br>
 
-<img src="images/yogurt 4.png" >
+<img src="images/yogurt 6.png" >
 
 ---
 #### Product Line Design for EarlyRider(Toy Horse Manufacturer)  <br>
 ### [View Report](files/toy horse report.pdf)    
-### [View Code](files/toy horse code.html)  　
+### [View Code](files/Toy Horse.html)  　
 > **Objective:** to optimize product mix and design the most profitable product line  <br> 
 > **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
 > **Outcome:** optimal short-term and long-term product lines; 1.8 times of 5 years’ profit for status quo  <br>
