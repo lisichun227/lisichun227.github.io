@@ -1,4 +1,4 @@
-## Portfolio  
+## Projects  
 
 ---
 
@@ -45,27 +45,26 @@
 <img src="images/911 calls 10.png"  >
 
 ---
-
-### Machine learning/Statistical Modeling
-
-### [Credit Risk Prediction](files/HELOC Predictive Modeling Report.pdf)  <br>
-[view the code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/machine%20learning-HELOC%20code%20.ipynb)　　
->**Problem:** evaluated the risk of Home Equity Line of Credit (HELOC) applications  <br>
+### Machine Learning - Credit Risk Prediction 
+#### [View Report](files/HELOC Predictive Modeling Report.pdf)  
+#### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/machine%20learning-HELOC%20code%20.ipynb)　　
+>**Objective:** to evaluate the risk of Home Equity Line of Credit (HELOC) applications  <br>
 >**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
->**Outcome:** random forest performed best, achieving accuracy of 72.1%  <br>
+>**Outcome:** random forest performed best, achieving 72.1% accuracy  <br>
 >**Tool:** Python  <br>
 
 <img src="images/HELOC.jpg" >
 
 ---
-### Mahine Learning and Deep Learning - Nintendo Switch Weekly Sales Time Series Forecasting　　<br>
-[view the Cde](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Nintendo%20Switch%20Weekly%20Sales%20Forecasting.ipynb)　　
->**Problem:** predicted the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
+### Machine Learning and Deep Learning - Nintendo Switch Weekly Sales Time Series Forecasting  <br>
+#### [View Report](files/Nintendo Switch Weekly Sales Forecasting.pdf)
+#### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Nintendo%20Switch%20Weekly%20Sales%20Forecasting.ipynb)　　
+>**Objective:** to predict the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
 >**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling outputs based on MAE metric and final weighted result computing  <br>
->**Outcome:** predicted weekly sales was 55,610(units) <br>
+>**Outcome:** won the first prize with the most closest predicted result(55,610 units)  <br>
 >**Tool:** Python  <br>
 
-<img src="images/nintendo switch2.jpg" width="100%" height="275">
+<img src="images/Nintendo 3.png" >
 
 ---
 
