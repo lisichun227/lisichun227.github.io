@@ -42,7 +42,7 @@
 > **Outcome:** insights about common resons for 911 calls and their time distribution  <br>
 > **Tool:** Python  <br>
 
-<img src="images/911 calls 6.png"  >
+<img src="images/911 calls 10.png"  >
 
 ---
 
@@ -55,11 +55,11 @@
 >**Outcome:** random forest performed best, achieving accuracy of 72.1%  <br>
 >**Tool:** Python  <br>
 
-<img src="images/HELOC.jpg" width="100%" height="275">
+<img src="images/HELOC.jpg" >
 
 ---
-#### [Nintendo Switch Weekly Sales Time Series Forecasting](files/Nintendo Switch Weekly Sales Forecasting.pdf)　　<br>
-[view the code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Nintendo%20Switch%20Weekly%20Sales%20Forecasting.ipynb)　　
+### Mahine Learning and Deep Learning - Nintendo Switch Weekly Sales Time Series Forecasting　　<br>
+[view the Cde](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Nintendo%20Switch%20Weekly%20Sales%20Forecasting.ipynb)　　
 >**Problem:** predicted the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
 >**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling outputs based on MAE metric and final weighted result computing  <br>
 >**Outcome:** predicted weekly sales was 55,610(units) <br>
