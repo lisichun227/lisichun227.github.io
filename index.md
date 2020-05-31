@@ -5,7 +5,8 @@
 ### Data Analytics  
 
 #### Greek Yogurt New Flavor Recommendation  <br>
-[View Report](files/Greek Yogurt report.pdf)    [View Code](files/Greek Yogurt code.html)   <br>　
+[View Report](files/Greek Yogurt report.pdf)  <br> 
+[View Code](files/Greek Yogurt code.html)  <br>　
 >**Objective:** to find out the optimal set of the next flavors to launch  <br>
 >**Approach:**  data extraction, data merge and sales performance analysis of existing flavors using SQL queries; preference analysis based on survey data; TURF analysis to estimate increased customer reach; data visualization in Tableau  <br>
 >**Outcome:** identified the next flavors to launch; enlarged customer base by 2%  <br>
@@ -14,8 +15,9 @@
 <img src="images/greek yogurt.jpeg" width="100%" height="275">
 
 ---
-#### Toy Horse Product Line Design  <br>
-[View Report](files/toy horse report.pdf)      [View Code](files/toy horse code.html)　　
+#### Product Line Design for EarlyRider(Toy Horse Manufacturer)  <br>
+[View Report](files/toy horse report.pdf)  <br>  
+[View Code](files/toy horse code.html)  <br>　　
 > **Objective:** to optimize product mix and design the most profitable product line  <br> 
 > **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
 > **Outcome:** optimal short-term and long-term product lines; 1.8 times of 5 years’ profit for status quo  <br>
@@ -24,19 +26,20 @@
 <img src="images/toy horse 3.png">
 
 ---
-#### [A/B Testing - Email Campaign Optimization for Wine Retailer](files/wine retailer report.pdf)  <br>
-[view the code](files/wine retailer code.html)　　
-> **Problem:**  evaluated the effectiveness of the promotion and who to target with the email campaign  <br> 
-> **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis to explore differences in the potential response for the promotion email ; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation  <br>
-> **Outcome:** confirmed promotion was effective; identified characteristics of the targeted group to optimize broader campaigns  <br>
+#### A/B Testing - Email Campaign Optimization for Wine Retailer
+[View Report](files/wine retailer report.pdf)  <br> 
+[View Code](files/wine retailer code.html)  <br>　
+> **Objective:**  to evaluate the email promotion effectiveness and refine email campaign target audience <br> 
+> **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis to explore differences in the potential response to the promotional email ; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation  <br>
+> **Outcome:** proved promotion was effective; identified characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
 
-<img src="images/wine2.jpg" width="100%" height="295" >
+<img src="images/email marketing.png" >
 
 ---
-#### [911 Calls Data Analytics](https://www.kaggle.com/mchirico/montcoalert)(data source:Kaggle)  <br> 
-[view the code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/911%20Calls%20Data%20Analytics%20Project.ipynb)　　
-> **Problem:**  detected what factors are likely to trigger more 911 calls  <br> 
+#### Kaggele: Exploratory Data Analysis - 911 Calls Data Analytics  <br> 
+[View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/911%20Calls%20Data%20Analytics%20Project.ipynb)　　
+> **Objective:**  to detect what factors are likely to trigger more 911 calls  <br> 
 > **Approach:** data manipulation, derivable variables creation and data analysis to identify causes and time patterns of 911 calls(Numpy and Pandas); data visualization(Matplotlib, Seaborn)  <br>
 > **Outcome:** insights about common resons for 911 calls and their time distribution  <br>
 > **Tool:** Python  <br>
