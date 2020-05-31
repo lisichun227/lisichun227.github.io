@@ -4,24 +4,24 @@
 
 ### Data Analytics  
 
-#### [Greek Yogurt New Flavor Recommendation](files/Greek Yogurt report.pdf)  <br>
-[view the code](files/Greek Yogurt code.html)　　
->**Problem:** found out the optimal set of the next flavors to launch  <br>
->**Approach:** wrote SQL queries to extract, merge sales data and analyze market share of existing flavors; performed preference analysis using survey data; performed TURF analysis to estimate increased customer reach; integrated analysis results to drive decisions; used Tableau for visualization  <br>
->**Outcome:** identified the next flavors to launch; increased customer base by 2%  <br>
+#### Greek Yogurt New Flavor Recommendation  <br>
+[View Report](files/Greek Yogurt report.pdf)    [View Code](files/Greek Yogurt code.html)   <br>　
+>**Objective:** to find out the optimal set of the next flavors to launch  <br>
+>**Approach:**  data extraction, data merge and sales performance analysis of existing flavors using SQL queries; preference analysis based on survey data; TURF analysis to estimate increased customer reach; data visualization in Tableau  <br>
+>**Outcome:** identified the next flavors to launch; enlarged customer base by 2%  <br>
 >**Tool:** SQL, R, Tableau  <br>
 
 <img src="images/greek yogurt.jpeg" width="100%" height="275">
 
 ---
-#### [Toy Horse Product Line Design](files/toy horse report.pdf)  <br>
-[view the code](files/toy horse code.html)　　
-> **Problem:** designed the most profitable product line  <br> 
-> **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market shares simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
-> **Outcome:** optimal short-term and long-term product lines; potential profit uplift amounting to $86,832.92 per year.  <br>
+#### Toy Horse Product Line Design  <br>
+[View Report](files/toy horse report.pdf)      [View Code](files/toy horse code.html)　　
+> **Objective:** to optimize product mix and design the most profitable product line  <br> 
+> **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
+> **Outcome:** optimal short-term and long-term product lines; 1.8 times of 5 years’ profit for status quo  <br>
 > **Tool:** R  <br>
 
-<img src="images/toy horse1.jpeg" width="100%" height="275">
+<img src="images/toy horse 3.png">
 
 ---
 #### [A/B Testing - Email Campaign Optimization for Wine Retailer](files/wine retailer report.pdf)  <br>
