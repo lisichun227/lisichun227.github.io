@@ -2,9 +2,7 @@
 
 ---
 
-### Data Analytics  
-
-#### Greek Yogurt New Flavor Recommendation  <br>
+### Greek Yogurt New Flavor Recommendation  <br>
 #### [View Report](files/Greek Yogurt report.pdf)  
 #### [View Code](files/Greek Yogurt code.html)  
 >**Objective:** to find out the optimal set of the next flavors to launch  <br>
@@ -15,7 +13,7 @@
 <img src="images/yogurt 7.png" >
 
 ---
-#### Product Line Design for EarlyRider (Toy Horse Manufacturer)  <br>
+### Product Line Design for EarlyRider (Toy Horse Manufacturer)  <br>
 #### [View Report](files/toy horse report.pdf)    
 #### [View Code](files/Toy Horse.html)  　
 > **Objective:** to optimize product mix and design the most profitable product line  <br> 
@@ -26,7 +24,7 @@
 <img src="images/toy horse 3.png">
 
 ---
-#### A/B Testing - Email Campaign Optimization for Wine Retailer
+### A/B Testing - Email Campaign Optimization for Wine Retailer
 #### [View Report](files/wine retailer report.pdf) 
 #### [View Code](files/wine retailer code.html) 
 > **Objective:**  to evaluate the email promotion effectiveness and refine email campaign target audience <br> 
@@ -37,20 +35,20 @@
 <img src="images/email 11.png" >
 
 ---
-#### Kaggle: Exploratory Data Analysis - 911 Calls Data Analytics  <br> 
+### Kaggle: Exploratory Data Analysis - 911 Calls Data Analytics  <br> 
 #### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/911%20Calls%20Data%20Analytics%20Project.ipynb)　　
 > **Objective:**  to detect what factors are likely to trigger more 911 calls  <br> 
 > **Approach:** data manipulation, derivable variables creation and data analysis to identify causes and time patterns of 911 calls(Numpy and Pandas); data visualization(Matplotlib, Seaborn)  <br>
 > **Outcome:** insights about common resons for 911 calls and their time distribution  <br>
 > **Tool:** Python  <br>
 
-<img src="images/911 calls 2.png" width="100%" height="275" >
+<img src="images/911 calls 3.png" width="100%" height="275" >
 
 ---
 
 ### Machine learning/Statistical Modeling
 
-#### [Credit Risk Prediction](files/HELOC Predictive Modeling Report.pdf)  <br>
+### [Credit Risk Prediction](files/HELOC Predictive Modeling Report.pdf)  <br>
 [view the code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/machine%20learning-HELOC%20code%20.ipynb)　　
 >**Problem:** evaluated the risk of Home Equity Line of Credit (HELOC) applications  <br>
 >**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
