@@ -5,19 +5,19 @@
 ### Data Analytics  
 
 #### Greek Yogurt New Flavor Recommendation  <br>
-[View Report](files/Greek Yogurt report.pdf)  <br> 
-[View Code](files/Greek Yogurt code.html)  <br>　
+### [View Report](files/Greek Yogurt report.pdf)  <br> 
+### [View Code](files/Greek Yogurt code.html)  <br>　
 >**Objective:** to find out the optimal set of the next flavors to launch  <br>
 >**Approach:**  data extraction, data merge and sales performance analysis of existing flavors using SQL queries; preference analysis based on survey data; TURF analysis to estimate increased customer reach; data visualization in Tableau  <br>
 >**Outcome:** identified the next flavors to launch; enlarged customer base by 2%  <br>
 >**Tool:** SQL, R, Tableau  <br>
 
-<img src="images/greek yogurt.jpeg" width="100%" height="275">
+<img src="images/yogurt 4.png" >
 
 ---
 #### Product Line Design for EarlyRider(Toy Horse Manufacturer)  <br>
-[View Report](files/toy horse report.pdf)  <br>  
-[View Code](files/toy horse code.html)  <br>　　
+### [View Report](files/toy horse report.pdf)    
+### [View Code](files/toy horse code.html)  　
 > **Objective:** to optimize product mix and design the most profitable product line  <br> 
 > **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
 > **Outcome:** optimal short-term and long-term product lines; 1.8 times of 5 years’ profit for status quo  <br>
@@ -34,7 +34,7 @@
 > **Outcome:** proved promotion was effective; identified characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
 
-<img src="images/email marketing.png" >
+<img src="images/email marketing 2.png" >
 
 ---
 #### Kaggele: Exploratory Data Analysis - 911 Calls Data Analytics  <br> 
