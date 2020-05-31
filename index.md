@@ -106,7 +106,7 @@
 >**Outcome:** the optimal price at equilibrium point  <br>
 >**Tool:** R <br>
 
-<img src="images/drink png" >
+<img src="images/drink 3.png" >
 
 
 ---
