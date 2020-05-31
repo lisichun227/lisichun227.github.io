@@ -34,7 +34,7 @@
 > **Outcome:** proved promotion was effective; identified characteristics of the targeted group to optimize broader campaigns  <br>
 > **Tool:** R  <br>
 
-<img src="images/email marketing 3.png" >
+<img src="images/email marketing 5.png" >
 
 ---
 #### Kaggele: Exploratory Data Analysis - 911 Calls Data Analytics  <br> 
