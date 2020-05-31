@@ -8,7 +8,7 @@
 #### [View Report](files/Greek Yogurt report.pdf)  
 #### [View Code](files/Greek Yogurt code.html)  
 >**Objective:** to find out the optimal set of the next flavors to launch  <br>
->**Approach:**  data extraction, data merge and sales performance analysis of existing flavors using SQL queries; preference analysis based on survey data; TURF analysis to estimate increased customer reach; data visualization in Tableau  <br>
+>**Approach:**  data extraction, data merge and sales analysis of existing flavors using SQL queries; preference analysis based on survey data; TURF analysis to estimate increased customer reach; data visualization in Tableau  <br>
 >**Outcome:** identified the next flavors to launch; enlarged customer base by 2%  <br>
 >**Tool:** SQL, R, Tableau  <br>
 
