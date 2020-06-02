@@ -67,7 +67,7 @@
 <img src="images/Nintendo 3.png" >
 
 ---
-### [Blue Hill Country Club Data Warehouse Design & Customer Analysis]
+### Blue Hill Country Club Data Warehouse Design & Customer Analysis
 #### [View Report](files/Data Warehouse Design Report.pdf)  
 #### [View Code](files/Data Warehouse Design SQL code.pdf)　　
 >**Objective:** to design an efficient and easy to use data warehouse for the Blue Hill Country Club and conduct customer analysis to gain insights about service purchase patterns  <br>
