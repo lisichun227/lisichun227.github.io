@@ -81,14 +81,14 @@
 
 ### Data Visulization
 
-#### [Google Play Store Apps Rating Analysis](files/google play store apps rating analysis.pdf)　　<br>
-
->**Problem:** explored how app attributes impacted their ratings  <br>
+### Google Play Store Apps Rating Analysis
+#### [View Report](files/google play app report.pdf)　　
+>**Objective:** to analyze how app attributes impact their ratings  <br>
 >**Approach:** removed outliers and transformed data in SQL; derived key insights through data visualization in Tableau and told the story  <br>
 >**Outcome:** insights about features for popular apps  <br>
 >**Tool:** SQL,Tableau  <br>
 
-<img src="images/google play store app.png" width="100%" height="275">
+<img src="images/google app 5.png" >
 
 ---
 
