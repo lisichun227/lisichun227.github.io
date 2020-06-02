@@ -1,6 +1,6 @@
-## Projects  
+### Projects  ,br>
 
----
+
 ## Data Analytics
 ---
 ### Greek Yogurt New Flavor Recommendation  <br>
