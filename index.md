@@ -53,7 +53,7 @@
 >**Outcome:** random forest performed best, achieving 72.1% accuracy  <br>
 >**Tool:** Python  <br>
 
-<img src="images/HELOC.jpg" >
+<img src="images/credit-card-application-cover-1-1024x695.jpg" >
 
 ---
 ### Machine Learning and Deep Learning - Nintendo Switch Weekly Sales Time Series Forecasting  <br>
