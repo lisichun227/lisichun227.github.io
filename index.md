@@ -67,17 +67,15 @@
 <img src="images/Nintendo 3.png" >
 
 ---
-
-### Data Warehouse Design
-
-#### [Blue Hill Country Club Data Warehouse Design & Customer Analysis](files/Data Warehouse Design Report.pdf)  <br>
-[view the code](files/Data Warehouse Design SQL code.pdf)　　
->**Problem:** designed a efficient and easy to use data warehouse for the Blue Hill Country Club and gained insights about service purchase patterns  <br>
+### [Blue Hill Country Club Data Warehouse Design & Customer Analysis]
+#### [View Report](files/Data Warehouse Design Report.pdf)  
+#### [View Code](files/Data Warehouse Design SQL code.pdf)　　
+>**Objective:** to design an efficient and easy to use data warehouse for the Blue Hill Country Club and conduct customer analysis to gain insights about service purchase patterns  <br>
 >**Approach:** EER diagram and relational schema design to organize 50,000+ transaction data from ten tables; dates and names transformation and standardization; ETL process using SQL queries; data analysis using SQL queries; data visualization in Tableau  <br>
->**Outcome:** a effective Data Warehouse; insights about the sales performance of categories, the consumption preference of different types of customers as well as promotion effectiveness etc  <br>
+>**Outcome:** an effective data warehouse; insights about the sales performance of categories, the consumption preference of different types of customers, promotion effectiveness, etc.  <br>
 >**Tool:** SQL, Tableau  <br>
 
-<img src="images/blue hill data warehouse design.png" width="100%" height="275">
+<img src="images/blue hill 2.png">
 
 ---
 
