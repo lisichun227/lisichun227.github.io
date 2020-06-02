@@ -78,9 +78,6 @@
 <img src="images/blue hill 2.png">
 
 ---
-
-### Data Visulization
-
 ### Google Play Store Apps Rating Analysis
 #### [View Report](files/google play app report.pdf)　　
 >**Objective:** to analyze how app attributes impact their ratings  <br>
@@ -88,13 +85,11 @@
 >**Outcome:** insights about features for popular apps  <br>
 >**Tool:** SQL,Tableau  <br>
 
-<img src="images/google app 5.png" >
+<img src="images/google app 6.png" >
 
 ---
-
-### Pricing Analysis
-
-#### [Soft Drink Pricing Analysis](files/soft drink pricing analysis report.pdf)　　<br>
+### Soft Drink Pricing Analysis
+#### [View Report](files/soft drink pricing analysis report.pdf)　　
 #### [View Code](files/soft drink pricing analysis code.html)　　
 >**Problem:**  set the price for a new product, “Kiwi Bubbles”  <br>
 >**Approach:** cluster modeling based on customer demographics; multinomial logit modeling for each segment and own- and cross-price elasticities calculation to explore customer preference and any substitution pattern; dynamic and competitive pricing analysis under “pricing war” considering cannibalization  <br>
