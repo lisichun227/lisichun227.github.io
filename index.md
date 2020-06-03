@@ -10,7 +10,7 @@
 >**Outcome:** identified the next flavors to launch; enlarged customer base by 2%  <br>
 >**Tool:** SQL, R, Tableau  <br>
 
-<img src="images/yogurt 9.png" >
+<img src="images/yogurt 10.png" >
 
 ---
 ### Product Line Design for EarlyRider (Toy Horse Manufacturer)  <br>
