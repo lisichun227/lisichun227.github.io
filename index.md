@@ -2,15 +2,15 @@
 
 
 ---
-### Greek Yogurt New Flavor Recommendation  <br>
-#### [View Report](files/Greek Yogurt report.pdf)  
-#### [View Code](files/Greek Yogurt code.html)  
->**Objective:** to find out the optimal set of the next flavors to launch  <br>
->**Approach:**  data extraction, data merge and sales analysis of existing flavors using SQL queries; preference analysis based on survey data; TURF analysis to estimate increased customer reach; data visualization in Tableau  <br>
->**Outcome:** identified the next flavors to launch; enlarged customer base by 2%  <br>
->**Tool:** SQL, R, Tableau  <br>
+### Blue Hill Country Club Data Warehouse Design & Customer Behavioral Analysis
+#### [View Report](files/Data Warehouse Design Report.pdf)  
+#### [View Code](files/Data Warehouse Design SQL code.pdf)　　
+>**Objective:** to design an efficient and easy to use data warehouse for the Blue Hill Country Club and conduct customer analysis to gain insights about service purchase patterns  <br>
+>**Approach:** EER diagram and relational schema design to organize 50,000+ transaction data from ten tables; dates and names transformation and standardization; ETL process using SQL queries; data analysis using SQL queries; data visualization in Tableau  <br>
+>**Outcome:** an effective data warehouse; insights about the sales performance of categories, the consumption preference of different types of customers, promotion effectiveness, etc.  <br>
+>**Tool:** SQL, Tableau  <br>
 
-<img src="images/yogurt 10.png" >
+<img src="images/blue hill 2.png">
 
 ---
 ### Product Line Design for EarlyRider (Toy Horse Manufacturer)  <br>
@@ -33,6 +33,17 @@
 > **Tool:** R  <br>
 
 <img src="images/email 11.png" >
+
+---
+### Greek Yogurt New Flavor Recommendation  <br>
+#### [View Report](files/Greek Yogurt report.pdf)  
+#### [View Code](files/Greek Yogurt code.html)  
+>**Objective:** to find out the optimal set of the next flavors to launch  <br>
+>**Approach:**  data extraction, data merge and sales analysis of existing flavors using SQL queries; preference analysis based on survey data; TURF analysis to estimate increased customer reach; data visualization in Tableau  <br>
+>**Outcome:** identified the next flavors to launch; enlarged customer base by 2%  <br>
+>**Tool:** SQL, R, Tableau  <br>
+
+<img src="images/yogurt 10.png" >
 
 ---
 ### Kaggle: Exploratory Data Analysis - 911 Calls Data Analytics  <br> 
@@ -65,17 +76,6 @@
 >**Tool:** Python  <br>
 
 <img src="images/Nintendo 6.png" >
-
----
-### Blue Hill Country Club Data Warehouse Design & Customer Analysis
-#### [View Report](files/Data Warehouse Design Report.pdf)  
-#### [View Code](files/Data Warehouse Design SQL code.pdf)　　
->**Objective:** to design an efficient and easy to use data warehouse for the Blue Hill Country Club and conduct customer analysis to gain insights about service purchase patterns  <br>
->**Approach:** EER diagram and relational schema design to organize 50,000+ transaction data from ten tables; dates and names transformation and standardization; ETL process using SQL queries; data analysis using SQL queries; data visualization in Tableau  <br>
->**Outcome:** an effective data warehouse; insights about the sales performance of categories, the consumption preference of different types of customers, promotion effectiveness, etc.  <br>
->**Tool:** SQL, Tableau  <br>
-
-<img src="images/blue hill 2.png">
 
 ---
 ### Google Play Store Apps Rating Analysis
