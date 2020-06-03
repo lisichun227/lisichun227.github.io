@@ -46,7 +46,7 @@
 <img src="images/yogurt 10.png" >
 
 ---
-### Kaggle: Exploratory Data Analysis - 911 Calls Data Analytics  <br> 
+### Kaggle: 911 Calls Data Analytics  <br> 
 #### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/911%20Calls%20Data%20Analytics%20Project.ipynb)　　
 > **Objective:**  to detect what factors are likely to trigger more 911 calls  <br> 
 > **Approach:** data manipulation, derivable variables creation and data analysis to identify causes and time patterns of 911 calls(Numpy and Pandas); data visualization(Matplotlib, Seaborn)  <br>
