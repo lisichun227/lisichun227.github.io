@@ -79,7 +79,7 @@
 
 ---
 ### Google Play Store Apps Rating Analysis
-#### [View Report](files/google play app report.pdf)　　
+#### [View Report](files/google play store app report .pdf)　　
 >**Objective:** to analyze how app attributes impact their ratings  <br>
 >**Approach:** removed outliers and transformed data in SQL; derived key insights through data visualization in Tableau and told the story  <br>
 >**Outcome:** insights about features for popular apps  <br>
