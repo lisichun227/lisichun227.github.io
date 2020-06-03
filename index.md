@@ -13,6 +13,28 @@
 <img src="images/blue hill 2.png">
 
 ---
+### Machine Learning - Credit Risk Prediction 
+#### [View Report](files/HELOC Predictive Modeling Report.pdf)  
+#### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/machine%20learning-HELOC%20code%20.ipynb)　
+> **Tool:** Python  <br>
+>**Objective:** to evaluate the risk of Home Equity Line of Credit (HELOC) applications  <br>
+>**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
+>**Outcome:** random forest performed best, achieving 72.1% accuracy  <br>
+
+<img src="images/credit-card-application-cover-1-1024x695.jpg" >
+
+---
+### Machine Learning and Deep Learning - Nintendo Switch Weekly Sales Time Series Forecasting  <br>
+#### [View Report](files/Nintendo Switch Weekly Sales Forecasting.pdf)
+#### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Nintendo%20Switch%20Weekly%20Sales%20Forecasting.ipynb)　　
+>**Tool:** Python  <br>
+>**Objective:** to predict the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
+>**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling outputs based on MAE metric and final weighted result computing  <br>
+>**Outcome:** won the first prize with the most closest predicted result(55,610 units)  <br>
+
+<img src="images/Nintendo 6.png" >
+
+---
 ### Product Line Design for EarlyRider (Toy Horse Manufacturer)  <br>
 #### [View Report](files/toy horse report.pdf)    
 #### [View Code](files/Toy Horse.html)  　
@@ -56,31 +78,9 @@
 <img src="images/911 calls 10.png"  >
 
 ---
-### Machine Learning - Credit Risk Prediction 
-#### [View Report](files/HELOC Predictive Modeling Report.pdf)  
-#### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/machine%20learning-HELOC%20code%20.ipynb)　
-> **Tool:** Python  <br>
->**Objective:** to evaluate the risk of Home Equity Line of Credit (HELOC) applications  <br>
->**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
->**Outcome:** random forest performed best, achieving 72.1% accuracy  <br>
-
-<img src="images/credit-card-application-cover-1-1024x695.jpg" >
-
----
-### Machine Learning and Deep Learning - Nintendo Switch Weekly Sales Time Series Forecasting  <br>
-#### [View Report](files/Nintendo Switch Weekly Sales Forecasting.pdf)
-#### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Nintendo%20Switch%20Weekly%20Sales%20Forecasting.ipynb)　　
->**Tool:** Python  <br>
->**Objective:** to predict the sales for the week ending on 9, May with sales data from January, 2018 to April, 2020  <br>
->**Approach:** data preprocessing and feature engineering; machine learning and deep learning modeling (random forest, XGBoost, MLP, LSTM); weight calculation for modeling outputs based on MAE metric and final weighted result computing  <br>
->**Outcome:** won the first prize with the most closest predicted result(55,610 units)  <br>
-
-<img src="images/Nintendo 6.png" >
-
----
 ### Google Play Store Apps Rating Analysis
 #### [View Report](files/google play store app report .pdf)　
->**Tool:** SQL,Tableau  <br>
+>**Tool:** SQL, Tableau  <br>
 >**Objective:** to analyze how app attributes impact their ratings  <br>
 >**Approach:** removed outliers and transformed data in SQL; derived key insights through data visualization in Tableau and told the story  <br>
 >**Outcome:** insights about features for popular apps  <br>
