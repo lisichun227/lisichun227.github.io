@@ -10,7 +10,7 @@
 >**Outcome:** identified the next flavors to launch; enlarged customer base by 2%  <br>
 >**Tool:** SQL, R, Tableau  <br>
 
-<img src="images/yogurt 7.png" >
+<img src="images/yogurt 9.png" >
 
 ---
 ### Product Line Design for EarlyRider (Toy Horse Manufacturer)  <br>
@@ -64,7 +64,7 @@
 >**Outcome:** won the first prize with the most closest predicted result(55,610 units)  <br>
 >**Tool:** Python  <br>
 
-<img src="images/Nintendo 3.png" >
+<img src="images/Nintendo 6.png" >
 
 ---
 ### Blue Hill Country Club Data Warehouse Design & Customer Analysis
