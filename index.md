@@ -7,7 +7,7 @@
 #### [View Code](files/Data Warehouse Design SQL code.pdf)　
 >**Tool:** SQL, Tableau  <br>
 >**Objective:** to design an efficient and easy to use data warehouse for the Blue Hill Country Club and conduct customer analysis to gain insights about service purchase patterns  <br>
->**Approach:** EER diagram and relational schema design to organize 50,000+ transaction data from ten tables; dates and names transformation and standardization; ETL process using SQL queries; data analysis using SQL queries; data visualization in Tableau  <br>
+>**Approach:** EER diagram and relational schema design to organize 50,000+ transaction data from ten tables; data manipulation; ETL(extract,transform and load) process using SQL queries; sales analysis, purchase behavioral analysis and promotion analysis using SQL queries; data visualization in Tableau  <br>
 >**Outcome:** an effective data warehouse; insights about the sales performance of categories, the consumption preference of different types of customers, promotion effectiveness, etc.  <br>
 
 <img src="images/blue hill 2.png">
@@ -35,12 +35,12 @@
 <img src="images/Nintendo 6.png" >
 
 ---
-### Product Line Design for EarlyRider (Toy Horse Manufacturer)  <br>
+### Conjoint Analysis & Product Line Design for EarlyRider (Toy Horse Manufacturer)  <br>
 #### [View Report](files/toy horse report.pdf)    
 #### [View Code](files/Toy Horse.html)  　
-> **Tool:** R  <br>
+> **Tool:** SQL, R  <br>
 > **Objective:** to optimize product mix and design the most profitable product line  <br> 
-> **Approach:** conjoint analysis using regression models; benefit segmentation through cluster analysis of conjoint part-utilities; market simulation for different product-line scenarios; cannibalization and competitive pricing  <br>
+> **Approach:** ETL process of survey Data using SQL; conjoint analysis using regression models; benefit segmentation through cluster analysis(K-means) of conjoint part-utilities; market simulation using first-best differentiated choice model for different product-line scenarios; cannibalization and competitive pricing  <br>
 > **Outcome:** optimal short-term and long-term product lines; 1.8 times of 5 years’ profit for status quo  <br>
 
 <img src="images/toy horse 3.png">
