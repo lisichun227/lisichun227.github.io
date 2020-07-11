@@ -54,7 +54,7 @@
 > **Approach:** A/B Testing randomization check; average casual effect estimate using regression models; slice and dice analysis to explore differences in the potential response to the promotional email ; individual-level conditional casual effect estimate using casual forest model along with margin and cost calculation  <br>
 > **Outcome:** proved promotion was effective; identified characteristics of the targeted group to optimize broader campaigns  <br>
 
-<img src="images/email 11.png" >
+
 
 ---
 ### Greek Yogurt New Flavor Recommendation  <br>
