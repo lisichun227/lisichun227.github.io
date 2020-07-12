@@ -19,12 +19,12 @@
 > **Tool:** Python  <br>
 >**Objective:** to evaluate the risk of Home Equity Line of Credit (HELOC) applications  <br>
 >**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
->**Outcome:** random forest performed best, achieving 72.1% accuracy  <br>
+>**Outcome:** random forest performed best, achieving 73% accuracy  <br>
 
 <img src="images/credit-card-application-cover-1-1024x695.jpg" >
 
 ---
-### Machine Learning and Deep Learning - Nintendo Switch Weekly Sales Time Series Forecasting  <br>
+### Machine Learning and Deep Learning - Nintendo Switch Weekly Sales Time Series Forecasting(Won the first prize in the data analytics competition)  <br>
 #### [View Report](files/Nintendo Switch Weekly Sales Forecasting.pdf)
 #### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Nintendo%20Switch%20Weekly%20Sales%20Forecasting.ipynb)　　
 >**Tool:** Python  <br>
