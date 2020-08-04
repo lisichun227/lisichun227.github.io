@@ -46,7 +46,7 @@
 <img src="images/toy horse 3.png">
 
 ---
-### A/B Testing - Email Campaign Optimization for Wine Retailer
+### A/B Testing - Email Campaign Targeting Strategy
 #### [View Report](files/wine retailer report.pdf) 
 #### [View Code](files/wine retailer code.html) 
 > **Tool:** R  <br>
