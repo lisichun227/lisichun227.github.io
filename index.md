@@ -3,8 +3,8 @@
 
 ---
 ### Blue Hill Country Club Data Warehouse Design & Customer Analysis
-#### [View Report](files/Data Warehouse Design Report.pdf)  
-#### [View Code](files/Data Warehouse Design SQL code.pdf)　
+#### [View Report](files/Blue Hill Data Warehouse Design.pdf)  
+#### [View Code](files/dw.sql)　
 >**Tool:** SQL, Tableau  <br>
 >**Objective:** to design an efficient and easy to use data warehouse for the Blue Hill Country Club and conduct customer analysis to gain insights about service purchase patterns  <br>
 >**Approach:** EER diagram design and relational schema building to organize 50,000+ transaction data from ten tables; data manipulation; ETL(extract,transform and load) dat processing with SQL queries; sales analysis, consumer preference analysis and promotion analysis using SQL queries; data visualization in Tableau  <br>
@@ -15,7 +15,7 @@
 ---
 ### Machine Learning - Credit Risk Prediction 
 #### [View Report](files/HELOC Predictive Modeling Report.pdf)  
-#### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/machine%20learning-HELOC%20code%20.ipynb)　
+#### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Credit%20Risk%20Prediction.ipynb)　
 > **Tool:** Python  <br>
 >**Objective:** to evaluate the risk of Home Equity Line of Credit (HELOC) applications  <br>
 >**Approach:** data cleaning (dealing with missing values and categorical values, feature scaling); machine learning modeling (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN); hyper-parameter tuning and cross validation(GridSearchCV); model evaluation  <br>
