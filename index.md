@@ -14,7 +14,6 @@
 
 ---
 ### Machine Learning - Credit Risk Prediction 
-#### [View Report](files/HELOC Predictive Modeling Report.pdf)  
 #### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/Credit%20Risk%20Prediction.ipynb)　
 > **Tool:** Python  <br>
 >**Objective:** to evaluate the risk of Home Equity Line of Credit (HELOC) applications  <br>
