@@ -86,7 +86,7 @@
 >**Approach:** cluster modeling based on customer demographics; multinomial logit modeling for each segment and own- and cross-price elasticities calculation to explore customer preference and any substitution pattern; dynamic and competitive pricing analysis under “pricing war” considering cannibalization  <br>
 >**Outcome:** the optimal price at equilibrium point  <br>
 
-<img src="images/drink 3.png" > >
+<img src="images/drink 3.png" >
 
 
 ---
