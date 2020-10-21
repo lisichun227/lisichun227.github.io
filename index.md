@@ -10,7 +10,7 @@
 >**Approach:** EER diagram design and relational schema building to organize 50,000+ transaction data from ten tables; data manipulation; ETL(extract,transform and load) dat processing with SQL queries; sales analysis, consumer preference analysis and promotion analysis using SQL queries; data visualization in Tableau  <br>
 >**Outcome:** an efficient and effective data warehouse; insights about the sales performance of categories, the consumption preference of different types of customers, promotion effectiveness, etc.  <br>
 
-<img src="images/blue hill 2.png">
+<img src="images/getImage.gif">
 
 ---
 ### Machine Learning - Credit Risk Prediction 
