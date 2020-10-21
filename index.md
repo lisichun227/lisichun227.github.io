@@ -3,8 +3,8 @@
 
 ---
 ### Blue Hill Country Club Data Warehouse Design & Customer Analysis
-#### [View Report](files/Blue Hill Data Warehouse Design.pdf)  
-#### [View Code](files/dw.sql)　
+#### [View Report](files/Blue Hill Data Warehouse Deisgn.pdf)  
+#### [View Code](https://github.com/lisichun227/lisichun227.github.io/blob/master/files/dw.sql)　
 >**Tool:** SQL, Tableau  <br>
 >**Objective:** to design an efficient and easy to use data warehouse for the Blue Hill Country Club and conduct customer analysis to gain insights about service purchase patterns  <br>
 >**Approach:** EER diagram design and relational schema building to organize 50,000+ transaction data from ten tables; data manipulation; ETL(extract,transform and load) dat processing with SQL queries; sales analysis, consumer preference analysis and promotion analysis using SQL queries; data visualization in Tableau  <br>
